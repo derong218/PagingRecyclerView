@@ -1,0 +1,2 @@
+# PagingRecyclerView
+横向分页 RecyclerView和页码指示器，不需要继承指定Adapter

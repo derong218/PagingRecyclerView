@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PagingRecyclerView">
+        <attr name="pageSize" format="integer" />
+    </declare-styleable>
+
+    <declare-styleable name="IndicatorView">
+        <attr name="indicatorPadding" format="dimension" />
+        <attr name="indicatorPaddingStart" format="dimension" />
+        <attr name="indicatorPaddingEnd" format="dimension" />
+        <attr name="indicatorPaddingTop" format="dimension" />
+        <attr name="indicatorPaddingBottom" format="dimension" />
+        <attr name="indicatorIcon" format="reference" />
+        <attr name="indicatorRadius" format="dimension" />
+        <attr name="indicatorWidth" format="dimension" />
+        <attr name="indicatorHeight" format="dimension" />
+        <attr name="indicatorColor" format="reference|color" />
+        <attr name="indicatorSelectedColor" format="reference|color" />
+    </declare-styleable>
+</resources>
